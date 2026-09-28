@@ -1,0 +1,4 @@
+interface:
+  display_name: "MOEX ISS API"
+  short_description: "Reliable Moscow Exchange ISS API routing and retrieval"
+  default_prompt: "Use $moex-iss-api to identify the correct MOEX ISS endpoint, discover engine/market/board identifiers, build a minimal request, handle pagination or SEQNUM correctly, and explain access or latency constraints."
